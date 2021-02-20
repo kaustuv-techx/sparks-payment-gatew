@@ -1,0 +1,821 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+HK&family=Open+Sans&display=swap');
+.mediaViewInfo {
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+:root {
+    --web-view-ids: Web_1920__1;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: none;
+}
+#Web_1920__1 {
+    position: absolute;
+    width: 1920px;
+    height: 3334px;
+    background-color: rgba(255,255,255,1);
+    overflow: hidden;
+    --web-view-name: Web 1920 – 1;
+    --web-view-id: Web_1920__1;
+    --web-scale-on-resize: true;
+    --web-enable-deep-linking: true;
+}
+#Path_1_h {
+    fill: url(#Path_1_h);
+}
+.Path_1_h {
+    overflow: visible;
+    position: absolute;
+    width: 1226.981px;
+    height: 928.42px;
+    left: 743.509px;
+    top: -78.841px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Isomatric {
+    position: absolute;
+    width: 710px;
+    height: 763px;
+    left: 1030px;
+    top: 251px;
+    overflow: visible;
+}
+#Rectangle_1 {
+    fill: transparent;
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_1 {
+    position: absolute;
+    overflow: visible;
+    width: 174px;
+    height: 48px;
+    left: 1606px;
+    top: 51px;
+}
+#Donate_ {
+    left: 1658px;
+    top: 65px;
+    position: absolute;
+    overflow: visible;
+    width: 77px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+#Screenshot_2021-02-12_at_22305 {
+    position: absolute;
+    width: 186.5px;
+    height: 72.812px;
+    left: 140px;
+    top: 44px;
+    overflow: visible;
+}
+#Home_ {
+    left: 1138px;
+    top: 63px;
+    position: absolute;
+    overflow: visible;
+    width: 69px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+#About_us {
+    left: 1260px;
+    top: 63px;
+    position: absolute;
+    overflow: visible;
+    width: 107px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+#Contact_us {
+    left: 1420px;
+    top: 63px;
+    position: absolute;
+    overflow: visible;
+    width: 133px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 21px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+#Path_2 {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(255,255,255,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_2 {
+    overflow: visible;
+    position: absolute;
+    width: 50px;
+    height: 2px;
+    left: 1147px;
+    top: 94.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Help_People_ {
+    left: 140px;
+    top: 371px;
+    position: absolute;
+    overflow: visible;
+    width: 374px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 65px;
+    color: rgba(0,0,0,1);
+}
+#Donate_Your_Bit_ {
+    left: 141px;
+    top: 438px;
+    position: absolute;
+    overflow: visible;
+    width: 518px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 75px;
+    color: rgba(0,0,0,1);
+}
+#During_this_unprecedented_time {
+    left: 140px;
+    top: 556px;
+    position: absolute;
+    overflow: visible;
+    width: 620px;
+    height: 244px;
+    text-align: left;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#Rectangle_2_u {
+    fill: url(#Rectangle_2_u);
+}
+.Rectangle_2_u {
+    position: absolute;
+    overflow: visible;
+    width: 220px;
+    height: 55px;
+    left: 140px;
+    top: 745px;
+    
+}
+#Rectangle_3_w {
+    opacity: 0.345;
+    filter: blur(px);
+    fill: url(#Rectangle_3_w);
+}
+.Rectangle_3_w {
+    position: absolute;
+    overflow: visible;
+    width: 304px;
+    height: 151px;
+    left: 146px;
+    top: 763px;
+    box-shadow: 0 10px 20px 0 rgba(0,0,0,0,15);
+    transition: 0.8s cubic-bezier(0.2,1,0.2,1);
+    cursor: pointer;
+}
+
+.Rectangle_3_w:hover{
+    transform: translateY(-2px);
+    box-shadow: 0 15px 30 px 0 rgba(0,0,0,0.25);
+}
+#Get_Started {
+    left: 196px;
+    top: 762px;
+    position: absolute;
+    overflow: visible;
+    width: 117px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN Alternate;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(255,255,255,1);
+    text-transform: uppercase;
+}
+#Path_3 {
+    fill: rgba(245,245,254,1);
+}
+.Path_3 {
+    overflow: visible;
+    position: absolute;
+    width: 932.99px;
+    height: 960.337px;
+    left: -44.876px;
+    top: 1078.094px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Illustration-2 {
+    position: absolute;
+    width: 787.81px;
+    height: 730.944px;
+    left: 93.19px;
+    top: 1356.487px;
+    overflow: visible;
+}
+#Start_Helping_with_ {
+    left: 1075px;
+    top: 1570px;
+    position: absolute;
+    overflow: visible;
+    width: 529px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 65px;
+    color: rgba(0,0,0,1);
+}
+#Donating_Your_Bit__Today__ {
+    left: 1076px;
+    top: 1637px;
+    position: absolute;
+    overflow: visible;
+    width: 559px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 70px;
+    color: rgba(0,0,0,1);
+}
+#We_have_created_PaySecure_to_h {
+    left: 1076px;
+    top: 1841px;
+    position: absolute;
+    overflow: hidden;
+    width: 528px;
+    height: 79px;
+    text-align: left;
+    font-family: sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(112,112,112,1);
+}
+#Rectangle_4 {
+    fill: transparent;
+    stroke: rgba(255,100,86,1);
+    stroke-width: 2px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Rectangle_4 {
+    position: absolute;
+    overflow: visible;
+    width: 180px;
+    height: 55px;
+    left: 1075px;
+    top: 1950px;
+}
+#Donate_Now {
+    left: 1110px;
+    top: 1966px;
+    position: absolute;
+    overflow: visible;
+    width: 111px;
+    white-space: nowrap;
+    text-align: center;
+    font-family: Damascus;
+    font-style: normal;
+    font-weight: lighter;
+    font-size: 20px;
+    color: rgba(255,100,86,1);
+}
+#Path_4 {
+    fill: rgba(0,0,0,0);
+    stroke: rgba(255,100,86,1);
+    stroke-width: 3px;
+    stroke-linejoin: miter;
+    stroke-linecap: round;
+    stroke-dasharray: 9 10;
+    stroke-dashoffset: 0;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_4 {
+    overflow: visible;
+    position: absolute;
+    width: 3px;
+    height: 207.962px;
+    left: 1077px;
+    top: 1034.538px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Ellipse_1 {
+    fill: rgba(255,100,86,1);
+}
+.Ellipse_1 {
+    position: absolute;
+    overflow: visible;
+    width: 14px;
+    height: 14px;
+    left: 1070px;
+    top: 1261px;
+}
+#Path_5 {
+    fill: transparent;
+    stroke: rgba(112,112,112,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_5 {
+    overflow: visible;
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    left: 0px;
+    top: 2644.449px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Path_42 {
+    fill: rgba(245,245,254,1);
+}
+.Path_42 {
+    overflow: visible;
+    position: absolute;
+    width: 2099.28px;
+    height: 1053.483px;
+    left: -129.789px;
+    top: 2527px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Illustration-4 {
+    position: absolute;
+    width: 565px;
+    height: 577.291px;
+    left: 140px;
+    top: 2527px;
+    overflow: visible;
+}
+#Path_43 {
+    fill: transparent;
+    stroke: rgba(199,198,219,1);
+    stroke-width: 1px;
+    stroke-linejoin: miter;
+    stroke-linecap: butt;
+    stroke-miterlimit: 4;
+    shape-rendering: auto;
+}
+.Path_43 {
+    overflow: visible;
+    position: absolute;
+    width: 1920px;
+    height: 1px;
+    left: 0px;
+    top: 3209.5px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Useful_links_bg {
+    left: 960px;
+    top: 2836px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(41,41,41,1);
+}
+#Home_bh {
+    left: 960px;
+    top: 2886px;
+    position: absolute;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#About_Us_bi {
+    left: 960px;
+    top: 2936px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Contact_Us_bj {
+    left: 960px;
+    top: 2986px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Donate__bk {
+    left: 960px;
+    top: 3036px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Useful_links_bg {
+    left: 960px;
+    top: 2836px;
+    position: absolute;
+    overflow: visible;
+    width: 113px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(41,41,41,1);
+}
+#Home_bh {
+    left: 960px;
+    top: 2886px;
+    position: absolute;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#About_Us_bi {
+    left: 960px;
+    top: 2936px;
+    position: absolute;
+    overflow: visible;
+    width: 83px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Contact_Us_bj {
+    left: 960px;
+    top: 2986px;
+    position: absolute;
+    overflow: visible;
+    width: 100px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Donate__bk {
+    left: 960px;
+    top: 3036px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Need_Help {
+    left: 1230px;
+    top: 2838px;
+    position: absolute;
+    overflow: visible;
+    width: 111px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(41,41,41,1);
+}
+#Faqs {
+    left: 1230px;
+    top: 2880px;
+    position: absolute;
+    overflow: visible;
+    width: 45px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Privacy {
+    left: 1230px;
+    top: 2924px;
+    position: absolute;
+    overflow: visible;
+    width: 67px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Policy {
+    left: 1230px;
+    top: 2968px;
+    position: absolute;
+    overflow: visible;
+    width: 54px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Support {
+    left: 1230px;
+    top: 3011px;
+    position: absolute;
+    overflow: visible;
+    width: 71px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Terms {
+    left: 1230px;
+    top: 3055px;
+    position: absolute;
+    overflow: visible;
+    width: 55px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    color: rgba(122,122,122,1);
+}
+#Contact {
+    left: 1496px;
+    top: 2838px;
+    position: absolute;
+    overflow: visible;
+    width: 75px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(41,41,41,1);
+}
+#facebook_1 {
+    fill: rgba(122,122,122,1);
+}
+.facebook_1 {
+    overflow: visible;
+    position: absolute;
+    width: 11.21px;
+    height: 22.418px;
+    left: 1496px;
+    top: 2881px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#instagram_1 {
+    position: absolute;
+    width: 24.718px;
+    height: 24.718px;
+    left: 1495px;
+    top: 2933px;
+    overflow: visible;
+}
+#Group_48 {
+    position: absolute;
+    width: 24.718px;
+    height: 24.718px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Group_47 {
+    position: absolute;
+    width: 24.718px;
+    height: 24.718px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_43_bw {
+    fill: rgba(122,122,122,1);
+}
+.Path_43_bw {
+    overflow: visible;
+    position: absolute;
+    width: 24.718px;
+    height: 24.718px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_50 {
+    position: absolute;
+    width: 12.359px;
+    height: 12.359px;
+    left: 6.179px;
+    top: 6.179px;
+    overflow: visible;
+}
+#Group_49 {
+    position: absolute;
+    width: 12.359px;
+    height: 12.359px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Path_44 {
+    fill: rgba(122,122,122,1);
+}
+.Path_44 {
+    overflow: visible;
+    position: absolute;
+    width: 12.359px;
+    height: 12.359px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#Group_52 {
+    position: absolute;
+    width: 1.647px;
+    height: 1.647px;
+    left: 18.179px;
+    top: 4.893px;
+    overflow: visible;
+}
+#Group_51 {
+    position: absolute;
+    width: 1.647px;
+    height: 1.647px;
+    left: 0px;
+    top: 0px;
+    overflow: visible;
+}
+#Ellipse_10 {
+    fill: rgba(122,122,122,1);
+}
+.Ellipse_10 {
+    position: absolute;
+    overflow: visible;
+    width: 1.647px;
+    height: 1.647px;
+    left: 0px;
+    top: 0px;
+}
+#twitter_1 {
+    position: absolute;
+    width: 24.718px;
+    height: 20.075px;
+    left: 1495px;
+    top: 2987px;
+    overflow: visible;
+}
+#Path_45 {
+    fill: rgba(122,122,122,1);
+}
+.Path_45 {
+    overflow: visible;
+    position: absolute;
+    width: 24.718px;
+    height: 20.075px;
+    left: 0px;
+    top: 0px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#dribbble {
+    fill: rgba(122,122,122,1);
+}
+.dribbble {
+    overflow: visible;
+    position: absolute;
+    width: 24.718px;
+    height: 24.718px;
+    left: 1495px;
+    top: 3036px;
+    transform: matrix(1,0,0,1,0,0);
+}
+#PaySecure_All_right_reserved {
+    left: 1603px;
+    top: 3265px;
+    position: absolute;
+    overflow: visible;
+    width: 203px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(122,122,122,1);
+}
+#Copyright__2021-2022 {
+    left: 33px;
+    top: 3261px;
+    position: absolute;
+    overflow: visible;
+    width: 167px;
+    white-space: nowrap;
+    text-align: left;
+    font-family: DIN;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    color: rgba(122,122,122,1);
+}
